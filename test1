@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "徐依依",
-      "image": "https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/4.jpg",
+      "image": "img/img1.jpg",
       "gender": 2,
       "job": "1",
       "entrydate": "2023-06-09",
@@ -38,6 +38,6 @@
       "entrydate": "2022-11-06",
       "updatetime": "2023-07-01T00:00:00"
     }
-  ],
+  ]
   
 }
