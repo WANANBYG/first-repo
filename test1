@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "令狐冲",
-      "image": "https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg",
+      "image": "img/img1.jpg",
       "gender": 1,
       "job": "1",
       "entrydate": "2020-05-09",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "name": "黛绮丝",
-      "image": "https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/2.jpg",
+      "image": "img/img1.jpg",
       "gender": 2,
       "job": "2",
       "entrydate": "2021-06-01",
@@ -32,7 +32,7 @@
     {
       "id": 4,
       "name": "风清扬",
-      "image": "https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/3.jpg",
+      "image": "img/img1.jpg",
       "gender": 1,
       "job": "3",
       "entrydate": "2022-11-06",
